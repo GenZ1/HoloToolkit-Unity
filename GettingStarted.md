@@ -32,7 +32,7 @@ You should now have a `HoloToolkit` menu item.
 Remove the default camera in the project (the next step creates a camera
  customized for holographic development).
 
-Add the `Main Camera.prefab` (found under HoloToolkit/Utilities/Prefabs).
+Add the `HoloLensCamera.prefab` (found under HoloToolkit/Input/Prefabs).
 
 You will probably want to add `ManualCameraControl.cs` (found under
  HoloToolkit/Utilities/Scripts) to the 
